@@ -1,8 +1,5 @@
 #!/bin/bash
 # This is an Sample project to build BaseImage needed for CICD of
-# JAVA Web Application used for Wezva Technologies
-# Author: Adam M       # Email: scmlearningcentre@gmail.com
-# Phone: 9739110917    # www.wezva.com
 
 # Setup logging
 log()
